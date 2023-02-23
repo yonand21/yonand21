@@ -13,7 +13,7 @@ and project experience such as content editing, design, and website development.
 </a>
 </p>
 
-###  Kontak Info 📞 
+###  Finde Me 📞 
 <p> 
   <a href="https://www.linkedin.com/in/yonanda-putra-pamungkas" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
