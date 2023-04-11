@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there (☞ﾟヮﾟ)☞
 
 <p align="center">
-  <img height="150cm" src="https://i.kym-cdn.com/photos/images/newsfeed/000/949/123/c9d.gif"/>
+  <img height="180cm" src="https://i.kym-cdn.com/photos/images/newsfeed/000/949/123/c9d.gif"/>
 <p>
 
 - 🎓 I am a student from Ganesha University of Education, majoring in Information Systems. 
