@@ -4,10 +4,10 @@
   <img height="180cm" src="https://i.kym-cdn.com/photos/images/newsfeed/000/949/123/c9d.gif"/>
 <p>
 
-- 🎓 I am a student from Ganesha University of Education, majoring in Information Systems. 
-- 🤞 Working in the area of information system security is something I'm interested in. 
-- 💪 Discipline and able to work well in a team. 
-- 🐱‍👤 Has been active in student activities and project experience such as content editing, design, and website development.
+- I am a student from Ganesha University of Education, majoring in Information Systems. 
+- Working in the area of information system security is something I'm interested in. 
+- Discipline and able to work well in a team. 
+- Has been active in student activities and project experience such as content editing, design, and website development.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonand21&layout=compact&langs_count=8&theme=algolia"/>
